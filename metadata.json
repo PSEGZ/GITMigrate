@@ -1,0 +1,6 @@
+{
+  "name": "GitMigrate Studio",
+  "description": "Migrate applications and directory structures to GitHub repositories with preserved hierarchy, atomic Git Trees, and verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
